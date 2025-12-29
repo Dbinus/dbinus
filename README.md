@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dbinus&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Dbinus/dbinus/blob/main/quotes.json&theme=prussian&animation=default&layout=default&font=default)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
