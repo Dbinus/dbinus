@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dbinus&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dbinus&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Dbinus/dbinus/blob/main/quotes.json&theme=prussian&animation=default&layout=default&font=default)
+### ✍️ Random Dev Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Dbinus/dbinus/blob/main/quotes.json&theme=prussian&animation=default&layout=default&font=default&borderColor=white)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
